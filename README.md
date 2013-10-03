@@ -1,5 +1,11 @@
 #Validatious 2.0
-Orginally from [Christian Johansen](http://cjohansen.no/). [Duplicated](https://github.com/cjohansen/validatious) for posterity. Also, I felt the the orginal repository was too verbose and found the [documentation site](http://validatious.org/) to be suffering from network performance issues.  
+Originally from [Christian Johansen](http://cjohansen.no/). [Duplicated](https://github.com/cjohansen/validatious) for posterity. Also, I felt the the orginal repository was too verbose and found the [documentation site](http://validatious.org/) to be suffering from network performance issues.
+The versions that are included in this repo were created from [here](http://validatious.org/download/latest) and contains:
+- Standalone Library in english
+- Validators: alpha, alphanum, confirmation-of, email, max-length, max-val, min-length, min-val, numeric, required, url, word
+- Extensions: HTML, Reporting
+Minified: 21.1 KB
+Normal: 67.2 KB
 ### 
  
 ##Add validators
